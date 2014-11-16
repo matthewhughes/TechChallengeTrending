@@ -1,0 +1,85 @@
+h3 {
+  color:#45BDDF;
+  border: dotted;
+  border-color: black;
+}
+
+h3:nth-of-type(1) {
+  background: -webkit-linear-gradient(left, #333333 95%, #ffffff 5%);
+  background: -moz-linear-gradient(left, #333333 95%, #ffffff 5%);
+  background: -o-linear-gradient(left, #333333 95%, #ffffff 5%);
+  background: -ms-linear-gradient(left, #333333 95%, #ffffff 5%);
+  background: linear-gradient(left, #333333 95%, #ffffff 5%);
+}
+
+h3:nth-of-type(2) {
+  background: -webkit-linear-gradient(left, #333333 88%, #ffffff 12%);
+  background: -moz-linear-gradient(left, #333333 88%, #ffffff 12%);
+  background: -o-linear-gradient(left, #333333 88%, #ffffff 12%);
+  background: -ms-linear-gradient(left, #333333 88%, #ffffff 12%);
+  background: linear-gradient(left, #333333 88%, #ffffff 12%);
+}
+
+h3:nth-of-type(3) {
+  background: -webkit-linear-gradient(left, #333333 82%, #ffffff 18%);
+  background: -moz-linear-gradient(left, #333333 82%, #ffffff 18%);
+  background: -o-linear-gradient(left, #333333 82%, #ffffff 18%);
+  background: -ms-linear-gradient(left, #333333 82%, #ffffff 18%);
+  background: linear-gradient(left, #333333 82%, #ffffff 18%);
+}
+
+h3:nth-of-type(4) {
+  background: -webkit-linear-gradient(left, #333333 80%, #ffffff 20%);
+  background: -moz-linear-gradient(left, #333333 80%, #ffffff 20%);
+  background: -o-linear-gradient(left, #333333 80%, #ffffff 20%);
+  background: -ms-linear-gradient(left, #333333 80%, #ffffff 20%);
+  background: linear-gradient(left, #333333 80%, #ffffff 20%);
+}
+
+h3:nth-of-type(5) {
+  background: -webkit-linear-gradient(left, #333333 78%, #ffffff 22%);
+  background: -moz-linear-gradient(left, #333333 78%, #ffffff 22%);
+  background: -o-linear-gradient(left, #333333 78%, #ffffff 22%);
+  background: -ms-linear-gradient(left, #333333 78%, #ffffff 22%);
+  background: linear-gradient(left, #333333 78%, #ffffff 22%);
+}
+
+h3:nth-of-type(6) {
+  background: -webkit-linear-gradient(left, #333333 75%, #ffffff 25%);
+  background: -moz-linear-gradient(left, #333333 75%, #ffffff 25%);
+  background: -o-linear-gradient(left, #333333 75%, #ffffff 25%);
+  background: -ms-linear-gradient(left, #333333 75%, #ffffff 25%);
+  background: linear-gradient(left, #333333 75%, #ffffff 25%);
+}
+
+h3:nth-of-type(7) {
+  background: -webkit-linear-gradient(left, #333333 73%, #ffffff 27%);
+  background: -moz-linear-gradient(left, #333333 73%, #ffffff 27%);
+  background: -o-linear-gradient(left, #333333 73%, #ffffff 27%);
+  background: -ms-linear-gradient(left, #333333 73%, #ffffff 27%);
+  background: linear-gradient(left, #333333 73%, #ffffff 27%);
+}
+
+h3:nth-of-type(8) {
+  background: -webkit-linear-gradient(left, #333333 70%, #ffffff 30%);
+  background: -moz-linear-gradient(left, #333333 70%, #ffffff 30%);
+  background: -o-linear-gradient(left, #333333 70%, #ffffff 30%);
+  background: -ms-linear-gradient(left, #333333 70%, #ffffff 30%);
+  background: linear-gradient(left, #333333 70%, #ffffff 30%);
+}
+
+h3:nth-of-type(9) {
+  background: -webkit-linear-gradient(left, #333333 68%, #ffffff 32%);
+  background: -moz-linear-gradient(left, #333333 68%, #ffffff 32%);
+  background: -o-linear-gradient(left, #333333 68%, #ffffff 32%);
+  background: -ms-linear-gradient(left, #333333 68%, #ffffff 32%);
+  background: linear-gradient(left, #333333 68%, #ffffff 32%);
+}
+
+h3:nth-of-type(10) {
+  background: -webkit-linear-gradient(left, #333333 65%, #ffffff 35%);
+  background: -moz-linear-gradient(left, #333333 65%, #ffffff 35%);
+  background: -o-linear-gradient(left, #333333 65%, #ffffff 35%);
+  background: -ms-linear-gradient(left, #333333 65%, #ffffff 35%);
+  background: linear-gradient(left, #333333 65%, #ffffff 35%);
+}
