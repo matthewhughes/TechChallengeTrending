@@ -1,0 +1,5 @@
+$(->
+    $('#accordion').accordion(
+        collapsable: true
+    );
+)
